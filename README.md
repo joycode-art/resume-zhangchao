@@ -1,6 +1,6 @@
 ## Resume
 
-**Visit resume: https://joycode-art.github.io/resume-wangbo**
+**Visit resume: https://joycode-art.github.io/resume-zhangchao**
 
 ### build your own
 

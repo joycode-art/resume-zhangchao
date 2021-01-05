@@ -80,3 +80,7 @@
 - 西安地区技术沙龙《测试框架设计》
 - 西安地区技术沙龙《C++编译时间优化》
 - 西安地区技术沙龙《事务微服务设计》
+
+## 证书
+- EXIN DevOps Master
+- KMP Foundation I（LeanKanban）
