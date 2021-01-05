@@ -1,7 +1,5 @@
 # 简历
 
-<img src="./photos/circle.png" align=right width="200" >
-
 ## 个人信息 
 
 - 简介 ：张超，男，1986 

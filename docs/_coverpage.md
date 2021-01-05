@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![](./photos/profile.svg)
+![](./photos/circle.png)
 
 # zhangchao<small>@joycode.art</small>
 
